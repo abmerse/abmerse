@@ -8,8 +8,6 @@
 
   ● 🌱 I’m currently learning to speak Portuguese and English fluently. ●<br>
 
-  ● 💬 Ask me about... How to survive EOMM conspiracies. ●<br>
-
   ● ⚡ Fun fact: the Ozymandias episode of Breaking Bad is the only one with a perfect rating (10/10) on IMDb. ●<br>
 
   ● 📫 How to reach me: by DRS on the main straight. ●<br>
@@ -39,7 +37,6 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code>
 	<code><img width="50" src="https://i.imgur.com/FvJbAR0.png" alt="Argentine Mate" title="Argentine Mate"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
@@ -57,7 +54,7 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">My PC 💪</h2>
+<h2 align="center">My Potato PC 💪</h2>
 
 <p align="center">
   <a title="PC Nicolhetti" href="https://www.pcgamebenchmark.com/ratemypc?platform=windows&cpu=intel-celeron-n4020&memory=8gb&gpu=intel-uhd-graphics-620"><img src="https://www.pcgamebenchmark.com/signature/intel-celeron-n4020/8gb/intel-uhd-graphics-620/forum.png"></a>
