@@ -66,7 +66,7 @@
 <h2 align="center">My Potato PC 💪</h2>
 
 <p align="center">
-  <a title="F**k you Nicolhetti" href="https://www.pcgamebenchmark.com/ratemypc?platform=windows&cpu=intel-celeron-n4020&memory=8gb&gpu=intel-uhd-graphics-620"><img src="https://www.pcgamebenchmark.com/signature/intel-celeron-n4020/8gb/intel-uhd-graphics-620/forum.png"></a>
+  <a title="check it out" href="https://www.pcgamebenchmark.com/ratemypc?platform=windows&cpu=intel-celeron-n4020&memory=8gb&gpu=intel-uhd-graphics-620"><img src="https://www.pcgamebenchmark.com/signature/intel-celeron-n4020/8gb/intel-uhd-graphics-620/forum.png"></a>
 </p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
